@@ -9,8 +9,8 @@ Proyecto github , prueba numero 1
 
 
 
-# Header 1
-## Header 2
-### Header 3
+# Rudimentos Python
+## Operadores
+### Operadores aritmeticos
 
 - Bullete
